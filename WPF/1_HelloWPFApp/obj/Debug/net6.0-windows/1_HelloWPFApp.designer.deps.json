@@ -1,0 +1,42 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HandyControl/3.4.0": {
+        "runtime": {
+          "lib/net6.0/HandyControl.dll": {
+            "assemblyVersion": "3.4.0.0",
+            "fileVersion": "3.4.0.0"
+          }
+        }
+      },
+      "HandyControls.Lang.zh-CN/3.4.4": {
+        "resources": {
+          "lib/net6.0/zh-CN/HandyControl.resources.dll": {
+            "locale": "zh-CN"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HandyControl/3.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MgD5lxIm23oCv3+mFWH6EARLCOmR/spFaWeb813QtUDIQeUsbGK02xm1xDQEd0UGBcba6aho1FgCtiU4q7hHDw==",
+      "path": "handycontrol/3.4.0",
+      "hashPath": "handycontrol.3.4.0.nupkg.sha512"
+    },
+    "HandyControls.Lang.zh-CN/3.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aEjYck65gG/3OZbRUC4GjtALsaeIyO611rJdeondM6/CAvEVeRoyZU1b89B6t/uix6Hu/ju9iaySOMUDxz/bEA==",
+      "path": "handycontrols.lang.zh-cn/3.4.4",
+      "hashPath": "handycontrols.lang.zh-cn.3.4.4.nupkg.sha512"
+    }
+  }
+}

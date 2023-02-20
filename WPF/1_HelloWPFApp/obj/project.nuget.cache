@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rIhUw1ZJKRflGCX0Y9ofkC90NS9/5/57w1yOTeEjEd9inRqHY7Klnq+gad6eyEMa01xJ+ors+duggzikW24CdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZLTDL\\source\\repos\\yjx\\表达式树\\新建文件夹\\ExpressionTree\\WPF\\1_HelloWPFApp\\1_HelloWPFApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZLTDL\\.nuget\\packages\\handycontrol\\3.4.0\\handycontrol.3.4.0.nupkg.sha512",
+    "C:\\Users\\ZLTDL\\.nuget\\packages\\handycontrols.lang.zh-cn\\3.4.4\\handycontrols.lang.zh-cn.3.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}
